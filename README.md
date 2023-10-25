@@ -1,3 +1,3 @@
 # frizeportfolio
 
-this is mu personal portfolio
+this is my personal portfolio
